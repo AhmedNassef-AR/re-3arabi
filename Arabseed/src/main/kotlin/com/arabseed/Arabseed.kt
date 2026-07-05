@@ -15,7 +15,7 @@ import kotlinx.coroutines.sync.withLock
 
 
 class Arabseed : MainAPI() {
-    override var mainUrl = "https://asd.pics"
+    override var mainUrl = "https://arabseeds.cam/"
     override var name = "Arabseed"
     override var lang = "ar"
     override val hasMainPage = true
